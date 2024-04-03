@@ -11,7 +11,7 @@ import pandas as pd
 # In[2]:
 
 
-credits = pd.read_csv('tmdb_5000_credits.csv')
+# credits = pd.read_csv('tmdb_5000_credits.csv')
 movies = pd.read_csv('tmdb_5000_movies.csv')
 
 
