@@ -80,7 +80,7 @@ const Search = () => {
                                 }}
                                 className="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600"
                             >
-                                Get Recommendations
+                                Similiar Movies 
                             </button>
                             {reco[movie.title] && (<>
                                 <h1 className="text-xl font-semibold text-gray-800">
